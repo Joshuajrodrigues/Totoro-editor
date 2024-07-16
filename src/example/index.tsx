@@ -1,4 +1,4 @@
-import { Editor } from "../lib/components/editor";
+import Editor from "../lib/components/editor";
 
 export function EditorContainer() {
   return (
